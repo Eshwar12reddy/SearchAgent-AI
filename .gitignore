@@ -1,0 +1,11 @@
+Lib/
+Scripts/
+Include/
+share/
+pyvenv.cfg
+.env
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.streamlit/
